@@ -1,0 +1,45 @@
+website:
+  sidebar:
+    contents:
+      - 01_matmul.ipynb
+      - 02_meanshift-apl.ipynb
+      - 02_meanshift.ipynb
+      - 03_backprop.ipynb
+      - 04_minibatch_training.ipynb
+      - 05_datasets.ipynb
+      - 06_foundations.ipynb
+      - 07_convolutions.ipynb
+      - 08_autoencoder.ipynb
+      - 09_learner.ipynb
+      - 10_activations.ipynb
+      - 11_initializing.ipynb
+      - 12_accel_sgd.ipynb
+      - 13_resnet.ipynb
+      - 14_augment.ipynb
+      - 15_DDPM.ipynb
+      - 16A_StyleTransfer.ipynb
+      - 16B_NCA.ipynb
+      - 17_DDPM_v2.ipynb
+      - 18_fid.ipynb
+      - 19_DDPM_v3.ipynb
+      - 20_DDIM.ipynb
+      - 21_cifar10_and_wandb.ipynb
+      - 22_cosine.ipynb
+      - 22_noise-pred.ipynb
+      - 23_karras.ipynb
+      - 24_imgnet_tiny-wide.ipynb
+      - 24_imgnet_tiny-widish.ipynb
+      - 24_imgnet_tiny.ipynb
+      - 24a_imgnet_tiny-200.ipynb
+      - 25_superres.ipynb
+      - 26_diffusion_unet.ipynb
+      - 27_attention.ipynb
+      - 28_diffusion-attn-cond.ipynb
+      - 29_vae.ipynb
+      - 30_lsun_diffusion-latents.ipynb
+      - 30_lsun_diffusion-simple.ipynb
+      - 31_imgnet_latents-widish.ipynb
+      - Untitled.ipynb
+      - consistency.ipynb
+      - naatt.ipynb
+      - segmentation.ipynb
