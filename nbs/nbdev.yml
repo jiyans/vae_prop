@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vae_prop"
+  site-url: "https://jiyans.github.io/vae_prop"
+  description: "Some experiments for using VAE latents as a replacement for propensity scores."
+  repo-branch: main
+  repo-url: "https://github.com/jiyans/vae_prop"
