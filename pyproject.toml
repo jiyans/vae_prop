@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 nbdev = "^2.3.34"
+torch = "^2.5.1"
+numpy = "^2.2.1"
+miniai = {path = "miniai"}
 
 
 [build-system]
