@@ -11,7 +11,14 @@ nbdev = "^2.3.34"
 torch = "^2.5.1"
 numpy = "^2.2.1"
 miniai = {path = "miniai"}
+accelerate = "^1.2.1"
+datasets = "^3.2.0"
+scikit-learn = "^1.6.0"
+statsmodels = "^0.14.4"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
